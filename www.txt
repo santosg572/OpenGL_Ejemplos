@@ -1,0 +1,6 @@
+https://registry.khronos.org/OpenGL-Refpages/gl4/html/glClear.xhtml
+
+https://www.dei.isep.ipp.pt/~matos/cg/docs/manual/
+
+
+
